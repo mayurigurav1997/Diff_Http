@@ -1,4 +1,5 @@
-2)Write a blog on Difference between HTTP1.1 vs HTTP2HTTP 1.1
+2)Write a blog on Difference between HTTP1.1 vs HTTP2
+HTTP 1.1
 1.Keeps all request and response in plain text format.
 2.HTTP1.1. is slower and not efficient as compare to the HTTP 2
 3.Introduce in 1997
